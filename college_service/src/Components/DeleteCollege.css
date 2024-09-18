@@ -1,0 +1,10 @@
+.delete-college {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.delete-college h2 {
+    color: #dc3545;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
